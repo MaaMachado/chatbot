@@ -85,8 +85,7 @@ Para acessar e utilizar o ChatBot, siga as instruções abaixo:
 
 ## 🖥 Funcionamento do Sitema:
 
-
-Quando um usuário digita uma pergunta no campus disponibilizaddo e clica no botão "Enviar", a pergunta é processada pelo chatbot.
-Com base nas palavras-chave identificadas, o chatbot seleciona uma resposta adequada a partir de um conjunto predefinido de respostas.
+![visualChatbot](https://github.com/MaaMachado/chatbot/assets/102763421/31d62a8e-583a-485d-b362-458273953789)
+<br>Quando um usuário digita uma pergunta no campo disponibilizado e clica no botão "Enviar", a pergunta é processada pelo chatbot. Com base nas palavras-chave identificadas, o chatbot seleciona uma resposta adequada a partir de um conjunto predefinido de respostas.
 
 ---
