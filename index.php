@@ -19,7 +19,7 @@
         <hr>
         <div id="chat">
             <div id="chat-area"></div>
-            <p id="resposta">Olá! Eu sou o sistema MAM. Por favor, digite sua pergunta ou 'Tchau' para encerrar a nossa conversa.</p>
+            <p id="resposta">Olá! Eu sou o sistema MAAM. Por favor, digite sua pergunta ou 'Tchau' para encerrar a nossa conversa.</p>
             <br>
             <input type=" text" id="pergunta" placeholder="Digite sua pergunta...">
             <button id="perguntar" title="Enviar">

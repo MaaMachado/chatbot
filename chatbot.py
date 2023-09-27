@@ -9,8 +9,8 @@ import nltk
 perguntas_respostas = {
     1: "Como posso ajudar você neste belo dia?",
     2: "Estou bem, obrigada por perguntar. Espero que você também esteja bem.",
-    3: "Meu nome é ChatBot. Sou um serviço de contato criado para introduzir os estudo de Inteligência Artificial.",
-    4: "Posso responder a perguntar simples para iniciar um contato com o usuário.",
+    3: "Meu nome é ChatBot do sistema MAAM.",
+    4: "Fui criado para introduzir o estudo de Inteligência Artificial. Posso responder a perguntas simples para iniciar um diálogo com o usuário.",
     5: "Tchau! Muito obrigada por testar esse serviço! Tenha um bom dia!"
 }
 

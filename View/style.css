@@ -59,3 +59,60 @@ hr{
     font-size: 0.98em;
   }
 }
+
+@media screen and (max-width: 600px) {
+  #resposta{
+    margin: 1.5em auto 0.5em;
+    font-size: medium;
+  }
+  #pergunta{
+    width: 50%;
+  }
+  #perguntar{
+    font-size: 0.9em;
+    padding: 0.6em;
+  }
+
+  &:hover{
+    font-size: 0.95em;
+  }
+}
+@media screen and (max-width: 600px) {
+  #resposta{
+    margin: 1.5em auto 0.5em;
+    font-size: medium;
+  }
+  #pergunta{
+    width: 50%;
+  }
+  #perguntar{
+    font-size: 0.9em;
+    padding: 0.6em;
+  }
+
+  &:hover{
+    font-size: 0.95em;
+  }
+}
+@media screen and (max-width: 425px) {
+  #box {
+    width:70%;
+    padding: 0.8em;
+  }
+  h1{
+    font-size: x-large;
+  }
+  #resposta{
+    width: 95%;
+    margin: 1.5em auto 0.5em;
+    font-size: medium;
+  }
+  #pergunta{
+    width: 60%;
+    height: 0.2em;
+    margin-bottom: 1.5em;
+  }
+  #perguntar{
+    padding: 0.5em;
+  }
+}
